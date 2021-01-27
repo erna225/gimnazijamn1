@@ -1,0 +1,83 @@
+body
+{
+  font-family: "Montserrat";
+  text-align: center;
+  background-color: #51c2d5;
+}
+
+p
+{
+  color: #1a508b;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+  font-family: "Montserrat";
+}
+
+.onama
+{
+  text-align: center;
+  margin-left: 40px;
+  margin-right: auto;
+}
+
+.novosti1
+{
+  font-family: "Montserrat";
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+.navbar
+{
+  padding:0 0 2rem;
+}
+
+.navbar-brand
+{
+  font-family: "Lobster";
+  font-size: 2rem;
+  font-weight: bold;
+  color: #1a508b;
+  text-decoration: none;
+}
+
+.navbar-item
+{
+  padding: 0 18px;
+}
+
+.jumbotron 
+{
+  background-color:#bbf1fa;
+}
+
+.bg-light 
+{
+  background-color:#bbf1fa!important;
+}
+.nav-link
+{
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+}
+
+.container-fluid
+{
+  padding: 3% 15%;
+}
+
+.carousel1
+{
+  padding: 0% 15% 0%;
+}
+
+.novostiimg
+{
+  width:  70%;
+}
+.social-icon
+{
+  margin: 20px 10px;
+}
